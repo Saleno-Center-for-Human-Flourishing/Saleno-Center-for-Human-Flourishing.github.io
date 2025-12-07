@@ -70,6 +70,7 @@ format:
       - styles/custom.scss
       - yeti
     mainfont: Nunito Sans
+    bibliography: ./Un-Duplicates.bib
     toc: true
     link-external-newwindow: true
     date-format: "MMM YYYY"

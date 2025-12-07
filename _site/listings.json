@@ -42,6 +42,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/2025-12-06-manticores/manticores.html",
       "/news/2025-10-12-serious-games/index.html",
       "/news/2025-10-04-another-introduction/index.html",
       "/news/2025-10-01-heart-of-things-1/index.html",
@@ -49,12 +50,6 @@
       "/news/2025-10-05-simulations-and-philosophy-2/index.html",
       "/news/2025-10-09-heart-3/index.html",
       "/news/2025-10-11-yet-another-intro/index.html"
-    ]
-  },
-  {
-    "listing": "/dmref/people/index.html",
-    "items": [
-      "/people/rust-josh/index.html"
     ]
   },
   {
@@ -78,6 +73,12 @@
       "/publications/2018_038_Introduction_Plasmon/index.html",
       "/publications/2014_024_Thermal_Signatures_o/index.html",
       "/publications/2012_017_Super-Resolution_Ima/index.html"
+    ]
+  },
+  {
+    "listing": "/dmref/people/index.html",
+    "items": [
+      "/people/rust-josh/index.html"
     ]
   },
   {

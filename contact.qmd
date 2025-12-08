@@ -8,8 +8,6 @@ about:
 # page-layout: full
 ---
 
-
-
 :::{#contact}
 
 #### {{< fa envelope >}} &nbsp; mreynolds1@stetson.edu

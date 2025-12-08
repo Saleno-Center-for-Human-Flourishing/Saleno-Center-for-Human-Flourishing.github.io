@@ -1,0 +1,41 @@
+---
+title: "The Epistemic Injustice of Authentic Art"
+subtitle: "Commentaries on Patricia Collins"
+date: '2025-12-07'
+---
+
+In a previous post, I highlighted some concerns raised by @layb18 regarding representation and authenticity. Here, I want to draw attention to some additional similar concerns. I then raise me own concerns, I specify that these criticisms unfairly focus too narrowly on the black experience and do not do a good enough job in recognizing that these experiences are universal. Given their universality, I argue that a best response is found in a Christian theodicy to evil. I draw on the psychological literature of in-group and out-group behavior.
+
+> Wendy @layb18 proposes a criticism of black authenticity and what she calls commodified realness. According to Laybourn, identity is sold to a broader public as black authenticity. This criticism is centered around the effects of what she calls *controlling images* in popular media. Of deep concern here, is that many of the members of the communities depicted by such images consider aspects of these images to be authentic representations and not in themselves harmful. Yet too, this is also a common trope, as old as society.
+
+Some similar examples of this criticism can be found in Zakiyyah Iman @jack20 or @mbem17's *Critque of Black Reason*. @jack20 defends the view of race as a social construct. Here black represents a void of reason and a surplus of animality. It is not clear what the counter to this claim should be as it is not represented anywhere in either work. However, looking at what is deemed black culture broadly in popular media, this counter claim is even more difficult to understand given that many African Americans fail to explicitly and publicly criticize, or at the very least, argue that such behaviors are not culturally representative. Popular artists who reflect similar characteristics as those deemed synonymous to the black race are praised and vaunted. Black female artists for instance, who reinforce stereotypes of blacks as hypersexualized, vulgar, using codes such as twerking to exemplify their over hyper-sexualized nature, are praised as *empowering* or *authentic*, where as black male artists are praised as being "real" or "gritty" for expression unjustified violence directed at other blacks. But this is just to mimic the age old racist justifications for slavery although slavery, in name, has been outlawed. According to this justification, blackness represents a blurred distinction between human and animal.
+
+>  Man distinguishes himself from animality, but this is not the case for the Black Man, who maintains within himself, albeit with a certain degree of ambiguity, animal possibility. A foreign body in our world, he is inhabited­under cover—by the animal. To debate Black reason is therefore to return to the collection of debates regarding the rules of how to define the Black Man: how he is recognized, how one identifies the animal spirit that possesses him, ­under which conditions the ratio penetrates and governs the animalitas. [@memb17, 56]
+
+A very famous example of just such an exchange occurred between the Reverend Calvin Butts who highlights serious objects to black representation in gangster rap, and the artist known as Ice T [@20c14] who gave voice to an entire generation who completely misses the point. The question that remains is what the justifications of such representations useful for now since slavery has been outlawed? What is less clear, is what to make of those African Americans who praise artists such as Tupac, Lizzo, Cardi B., Megan Thee Stalion. Like Ice T, they represent a view that has not grasped the similarity between using notions of black animality to justify, for instance, taking children away from their parents to sell to a sugar plantation. The question here is what artist representations of black animality now justify?
+
+A possibility may be the use of fetal tissue for medical research. Justice Clarence Thomas wrote a concurring opinion for Box v. Planned Parenthood. In it, he argued that the United States' history of eugenics provided strong justification for an Indiana law that banned abortions solely on the race, gender, or disability of the fetus. Much of his reasoning stems from the disparity in abortion rates between black women versus all other women. In 2021, reporting from the CDC shows that non-hispanic black women accounted for 41.5% of all abortions [@kort23]. While that may not seem like a lot, it must be pointed out that black women make up only between 13.6% to 15.5% of all U.S. women [@chin21].
+
+> Roe and Casey held that a pregnant woman has a constitutional right to obtain an abortion; that that right may be exercised for essentially whatever reason the woman sees fit; and that the state may not make or enforce laws that have the purpose or effect of inhibiting the woman’s abortion choice.
+
+As noted at the outset of this Response, laws prohibiting trait-selection abortion conflict in principle with Roe and Casey’s establishment of a constitutional right to abortion for any reason the woman chooses.
+
+Does the right to abortion hold even if the reason for abortion is the race, gender, or disability of the child? According to Roe v. Wade, it does. But this is problematic.
+
+> Where race, sex, or disability can be shown to be the reason for a particular abortion, can such an abortion constitutionally be prohibited? Is the Court irrevocably committed to a doctrine that would compel toleration of eugenics-motivated abortion as a constitutional right? Or is there a sensible road back?
+
+> Rights have reasons, if the right outruns to proffered reason, then there is a good reason to limit or narrow the right.
+
+> Where the formulation of a right — and especially of an unwritten right — outruns the reasons proffered for that right, there is good reason to limit or narrow it.
+
+Building on Eisenstadt v. Baird, Roe v. Wade is a ruling on the protection of a person's decision to be a parent or to not be a parent. But eugenics based motivations are a different kind of decision, about what kind of child the person decides to be a parent to.
+
+> To ban sex-selection (or race-motivated, or disability-based) abortion is not to interfere with the choice of whether or not to have a child — the right Roe and Casey seem to have in view — but to interfere with the choice to abort where continued pregnancy and childbirth otherwise would be chosen, but for reasons of the traits of the child to be born.
+
+Roe v. Wade overshoots the reasons supporting Eisenstadt v. Baird. 
+
+> Use undue burden language to limit scope of "relevant rights" in roe and casey.
+
+> It seems fair to observe, however, that the “undue burden” formula is vague, amorphous, malleable, and adjustable. In a scheme of judicial development of an unwritten right, it should be open to the Court to conclude that prohibitions on trait-specific abortions do not burden in a relevant way the right to abortion itself, but only the right to trait selection of born children through the means of abortion.
+
+In other words, point out that the language in roe and casey do not burden decision to abort, but only one reason for aborting a fetus.

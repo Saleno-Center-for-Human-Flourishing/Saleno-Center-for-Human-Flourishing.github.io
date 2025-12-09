@@ -1,6 +1,6 @@
 ---
-title: Metaphysics
-alias: &ALIAS metaphysics
+title: Literature and Film
+alias: &ALIAS aesthetics
 image: featured.jpg
 listing:
   id: pubs

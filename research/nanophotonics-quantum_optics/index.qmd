@@ -1,11 +1,11 @@
 ---
-title: "Nanophotonics / Quantum Optics"
-alias: &ALIAS nanophotonics-quantum_optics
+title: "Aesthetic Values"
+alias: &ALIAS evaluation
 image: featured.jpg
 listing:
   id: pubs
-  template: ../../_ejs/publications-people.ejs 
-  contents: 
+  template: ../../_ejs/publications-people.ejs
+  contents:
     - "../../publications/**/*.qmd"
     - "!../../publications/_template/"
   sort: "pub_number desc"

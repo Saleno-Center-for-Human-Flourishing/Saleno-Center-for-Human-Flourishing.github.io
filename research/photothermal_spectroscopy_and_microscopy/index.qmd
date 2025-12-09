@@ -1,11 +1,11 @@
 ---
-title: Photothermal Spectroscopy and Microscopy
-alias: &ALIAS photothermal_spectroscopy_and_microscopy
+title: Character, Narration, Ontology and Truth
+alias: &ALIAS fiction
 image: featured.jpg
 listing:
   id: pubs
-  template: ../../_ejs/publications-people.ejs 
-  contents: 
+  template: ../../_ejs/publications-people.ejs
+  contents:
     - "../../publications/**/*.qmd"
     - "!../../publications/_template/"
   sort: "pub_number desc"

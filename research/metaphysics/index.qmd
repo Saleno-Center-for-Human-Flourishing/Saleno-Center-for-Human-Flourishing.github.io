@@ -1,5 +1,5 @@
 ---
-title: Metaphysics
+title: Realism and Anti-Realism in Aesthetics
 alias: &ALIAS metaphysics
 image: death-of-a-spaceman.png
 listing:

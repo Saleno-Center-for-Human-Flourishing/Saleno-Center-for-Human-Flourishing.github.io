@@ -6,7 +6,7 @@ page-layout: full
 <div class="gradient-text">
 
 <div class="welcome-headline">
-The Experience Machine<br>
+Experience Machines<br>
 </div>
 <div class="welcome-subheadline">
 
@@ -27,6 +27,7 @@ Artworks like *The Fate of Ophelia* by Taylor Swift and the *Bioshock* series by
 
 :::
 
+:::
 :::
 ::::
 

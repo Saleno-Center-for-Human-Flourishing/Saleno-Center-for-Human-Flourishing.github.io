@@ -20,13 +20,3 @@ about:
 :::
 
 
-```{r}
-#| echo: false
-#| label: make map
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-81.30281569438084, lat=29.03504894352741)
-```
-
-<br>

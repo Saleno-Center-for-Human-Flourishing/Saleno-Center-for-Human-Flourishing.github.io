@@ -35,7 +35,7 @@ website:
         text: people
       - href: research/index.qmd
       - href: publications/index.qmd
-      - text: "NSF DMREF"
+      - text: "Discord"
         href: dmref/index.qmd
       - href: codes/index.qmd
         text: Codes
@@ -46,12 +46,12 @@ website:
   sidebar:
 #  link each group of sidebar entries with a navbar entry by matching their titles and listing the page linked from the navbar as the first content in the sidebar
     - id: dmref
-      title: "NSF DMREF"
+      title: "Discord"
       # logo: "images/dmref-logo.png"
       logo-href: dmref/index.qmd #avail quarto v 1.5
       contents:
         - href: dmref/index.qmd
-          text: Welcome to DMREF
+          text: SCHF Discord
         - href: dmref/people/index.qmd
           text: The DMREF Team
         - href: dmref/publications/index.qmd

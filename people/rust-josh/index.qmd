@@ -54,7 +54,8 @@ David J. Masiello is a professor of Chemistry, adjunct professor of Applied Math
 <br>
 
 :::
-## Group Publications
+
+## {{< meta first >}}'s Group Publications
 
 :::{#pubs}
 :::

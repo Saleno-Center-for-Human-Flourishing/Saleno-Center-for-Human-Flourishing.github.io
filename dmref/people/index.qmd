@@ -2,31 +2,31 @@
 # title: "The NSF DMREF Team"
 listing:
   - id: pi
-    contents: 
+    contents:
       - "../../people/**/*.qmd"
       - "!../../people/_template.qmd"
-    include: 
+    include:
       people_group: "pi"
       project: "dmref"
     template: ../../_ejs/dmref-people-box.ejs
     type: grid
     fields: [title, affiliation, image]
   - id: postdoc
-    contents: 
+    contents:
       - "../../people/**/*.qmd"
       - "!../../people/_template.qmd"
-    include: 
+    include:
       people_group: "postdoc"
       project: "dmref"
     template: ../../_ejs/dmref-people-box.ejs
-    sort: last    
+    sort: last
     type: grid
     fields: [title, affiliation, image]
   - id: gradstudent
-    contents: 
+    contents:
       - "../../people/**/*.qmd"
       - "!../../people/_template.qmd"
-    include: 
+    include:
       people_group: "gradstudent"
       project: dmref
     template: ../../_ejs/dmref-people-box.ejs
